@@ -12,12 +12,10 @@
 </div>
 
 
-
 ## Open Source Contributions
 
 
 
 | ![MeetPerfect's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeetPerfect&show_icons=true&theme=tokyonight) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPerfect&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
 
