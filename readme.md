@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-+ 2025.12 - 2026.03 **AI Developer Intern ** @ *Jiangsu BoCloud Technology Co., Ltd*
++ 2025.12 - 2026.03 **AI Developer Intern** @ *Jiangsu BoCloud Technology Co., Ltd*
 
 
 
