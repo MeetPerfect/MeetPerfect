@@ -17,10 +17,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eosin-phi-38.vercel.app/api?username=MeetPerfect&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
+    src="https://github-readme-stats-eosin-phi-38.vercel.app/api?username=MeetPerfect&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
   />
   <img
-    src="https://github-readme-stats-eosin-phi-38.vercel.app/api/top-langs/?username=MeetPerfect&layout=compact&langs_count=8&theme=transparent"
+    src="https://github-readme-stats-eosin-phi-38.vercel.app/api/top-langs/?username=MeetPerfect&layout=compact&langs_count=8&theme=dracula"
   />
 </p>
 
