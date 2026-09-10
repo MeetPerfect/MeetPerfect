@@ -15,8 +15,12 @@
 
 ## Open Source Contributions
 
-
-
-| ![MeetPerfect's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeetPerfect&show_icons=true&theme=tokyonight) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPerfect&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<p align="center">
+  <img
+    src="https://github-readme-stats-eosin-phi-38.vercel.app/api?username=MeetPerfect&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
+  />
+  <img
+    src="https://github-readme-stats-eosin-phi-38.vercel.app/api/top-langs/?username=MeetPerfect&layout=compact&langs_count=8&theme=transparent"
+  />
+</p>
 
